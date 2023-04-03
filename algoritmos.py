@@ -1,5 +1,4 @@
 from math import sqrt
-import tkinter as tk
 
 
 def SomarValores():
